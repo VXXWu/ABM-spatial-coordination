@@ -1,0 +1,46 @@
+,Coefficient,P-value
+"careFarmMean*initialExperience, HS Patches",-0.3380657999544391,0.0
+"careFarmMean*initialExperience, Non-HS Strategy",0.1657722678083544,2.8090936617912985e-110
+"careFarmMean*initialExperience, HS Strategy",-0.16577226780835308,2.8090936618023396e-110
+"careFarmMean*initialExperience, Production Benefit Per NCH Patch",0.13172222584446922,2.659317324583092e-147
+"careFarmMean, HS Patches",0.10806632150714711,3.3572697432334573e-50
+"careFarmMean*careLandscapeMean, HS Patches",0.09207464106854772,4.430289490827146e-135
+"careFarmMean, HS Strategy",0.07060524541921669,1.566091894215431e-22
+"careFarmMean, Non-HS Strategy",-0.0706052454192159,1.5660918942170945e-22
+"careFarmMean, NCH Patches",0.06914805242505478,2.4674316159455733e-28
+"careFarmMean*careLandscapeMean, Production Benefit Per NCH Patch",-0.06624643385848748,2.1800139939769575e-149
+"careFarmMean, Net Production Per Patch",0.05902444956045878,1.372269761800821e-84
+"careFarmMean*initialExperience, NCH Patches",-0.05073275985025633,3.2037573532276886e-15
+"careFarmMean*careLandscapeMean, Non-HS Strategy",-0.05045689599289255,3.879634045906112e-42
+"careFarmMean*careLandscapeMean, HS Strategy",0.05045689599289241,3.879634045907942e-42
+"careFarmMean*initialExperience, Income Deviation",-0.04673820907194366,2.9728481729320123e-32
+"careFarmMean*carePatchMean, Production Benefit Per NCH Patch",0.04402846258040389,4.944794152339312e-67
+"careFarmMean, Income Per Patch",0.04384947973419212,9.002207193378862e-39
+"careFarmMean*nonHSPercent, NCH Patches",0.041008304060010714,5.198483580768871e-37
+"careFarmMean*careLandscapeMean, Net Production Per Patch",-0.03295745604286593,8.124332484690453e-100
+"careFarmMean, Production Benefit Per NCH Patch",0.030111518697209357,1.2558423116981137e-09
+"careFarmMean*trustIndexMean, HS Patches",-0.02780325343039581,7.529613180763158e-14
+"careFarmMean*trustIndexMean, HS Strategy",-0.027504582076520935,1.1519832062154237e-13
+"careFarmMean*trustIndexMean, Non-HS Strategy",0.02750458207652054,1.1519832062163525e-13
+"careFarmMean*carePatchMean, HS Strategy",-0.02554595143986233,5.802231557715254e-12
+"careFarmMean*carePatchMean, Non-HS Strategy",0.02554595143986144,5.802231557725035e-12
+"careFarmMean*nonHSPercent, Production Benefit Per NCH Patch",-0.025193594045946857,5.947384486839157e-23
+"careFarmMean*careLandscapeMean, NCH Patches",-0.025143851656569814,5.128393600345639e-15
+"careFarmMean*nonHSPercent, Income Per Patch",0.025018613648379935,3.5669907336658094e-47
+"careFarmMean*carePatchMean, Income Deviation",0.024112038125938928,2.7613671564752363e-34
+"careFarmMean*careLandscapeMean, Income Per Patch",-0.02300762968231513,1.821516342273662e-40
+"careFarmMean*nonHSPercent, HS Strategy",-0.019448511919730502,1.759617718898675e-07
+"careFarmMean*nonHSPercent, Non-HS Strategy",0.01944851191972994,1.759617718900107e-07
+"careFarmMean*nonHSPercent, Income Deviation",0.019392563691458586,1.2927291486477091e-22
+"careFarmMean, Income Deviation",0.018410291377930064,1.7056356023036552e-06
+"careFarmMean*initialExperience, Income Per Patch",-0.016753538043482983,1.2793934046343703e-06
+"careFarmMean*carePatchMean, Income Per Patch",-0.015855624339107293,4.5289439886218243e-20
+"careFarmMean*initialExperience, Net Production Per Patch",-0.015322108873991973,8.463045754891413e-07
+"careFarmMean*carePatchMean, NCH Patches",-0.014325685613257533,8.356367390073358e-06
+"careFarmMean*carePatchMean, Net Production Per Patch",-0.014216896594596674,5.893389460141135e-20
+"careFarmMean*trustIndexMean, Production Benefit Per NCH Patch",0.013544666073075428,9.873468088766518e-08
+"careFarmMean*nonHSPercent, HS Patches",0.01247729659628177,0.0008378233162849975
+"careFarmMean*nonHSPercent, Net Production Per Patch",0.012257109749383887,3.896805868676144e-15
+"careFarmMean*careLandscapeMean, Income Deviation",-0.010422776416180408,1.2901854957344057e-07
+"careFarmMean*trustIndexMean, NCH Patches",0.006758137193111267,0.035301440826149076
+"careFarmMean*trustIndexMean, Income Deviation",-0.004254243481076472,0.030984609075886314

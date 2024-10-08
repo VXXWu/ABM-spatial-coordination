@@ -1,0 +1,24 @@
+hs_patches vietnam
+	hs_patches_vietnam
+	b/se
+Mean	
+HS_Patches	0.299***
+	="(0.007)"
+Effect	
+subsidy	-2.284***
+	="(0.092)"
+giniCoeff	0.005
+	="(0.046)"
+sub_size	-0.143
+	="(0.125)"
+cmd	npregress
+depvar	hs_patches
+r2	0.604
+r2_p	
+ll	
+bic	.
+N	15392.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

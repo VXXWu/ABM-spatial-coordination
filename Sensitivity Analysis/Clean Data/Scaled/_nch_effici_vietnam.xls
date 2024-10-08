@@ -1,0 +1,24 @@
+nch_efficiency vietnam
+	nch_effici_vietnam
+	b/se
+Mean	
+NCH_Efficiency	0.076***
+	="(0.006)"
+Effect	
+subsidy	0.066
+	="(0.064)"
+giniCoeff	-0.363***
+	="(0.063)"
+sub_size	0.607***
+	="(0.084)"
+cmd	npregress
+depvar	nch_efficiency
+r2	0.486
+r2_p	
+ll	
+bic	.
+N	21087.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

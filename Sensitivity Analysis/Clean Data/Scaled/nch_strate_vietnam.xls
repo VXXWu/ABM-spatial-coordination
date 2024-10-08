@@ -1,0 +1,24 @@
+nch_strategy vietnam
+	nch_strate_vietnam
+	b/se
+Mean	
+NCH_Strategy	-0.016***
+	="(0.005)"
+Effect	
+subsidy	0.929***
+	="(0.016)"
+farmSize	-0.858***
+	="(0.047)"
+sub_size	2.400***
+	="(0.079)"
+cmd	npregress
+depvar	nch_strategy
+r2	0.463
+r2_p	
+ll	
+bic	.
+N	25850.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

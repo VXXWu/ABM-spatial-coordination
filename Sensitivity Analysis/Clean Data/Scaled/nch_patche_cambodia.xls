@@ -1,0 +1,24 @@
+nch_patches cambodia
+	nch_patche_cambodia
+	b/se
+Mean	
+NCH_Patches	-0.043***
+	="(0.006)"
+Effect	
+subsidy	2.770***
+	="(0.017)"
+farmSize	0.137***
+	="(0.022)"
+sub_size	-0.446***
+	="(0.043)"
+cmd	npregress
+depvar	nch_patches
+r2	0.946
+r2_p	
+ll	
+bic	.
+N	25850.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

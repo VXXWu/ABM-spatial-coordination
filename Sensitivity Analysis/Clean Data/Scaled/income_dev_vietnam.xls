@@ -1,0 +1,24 @@
+income_dev vietnam
+	income_dev_vietnam
+	b/se
+Mean	
+Income_Dev	0.111***
+	="(0.006)"
+Effect	
+subsidy	-1.748***
+	="(0.023)"
+farmSize	-4.599***
+	="(0.070)"
+sub_size	0.959***
+	="(0.136)"
+cmd	npregress
+depvar	income_dev
+r2	0.657
+r2_p	
+ll	
+bic	.
+N	25850.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

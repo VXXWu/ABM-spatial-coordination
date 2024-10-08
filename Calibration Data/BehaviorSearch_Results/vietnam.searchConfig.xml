@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!DOCTYPE search SYSTEM "behaviorsearch.dtd">
+<search>
+    <bsearchVersionNumber>1.10</bsearchVersionNumber>
+    <modelInfo>
+        <modelFile>C:\Users\vince\Downloads\ABM-Research\abm_calibration - v.average.nlogo</modelFile>
+        <modelSetupCommands>setup-calibration</modelSetupCommands>
+        <modelStepCommands>go</modelStepCommands>
+        <modelStopCondition>endRun = true</modelStopCondition>
+        <modelStepLimit>1000</modelStepLimit>
+        <modelMetricReporter>fitness</modelMetricReporter>
+        <modelMeasureIf>true</modelMeasureIf>
+    </modelInfo>
+    <fitnessInfo>
+        <fitnessMinimized>false</fitnessMinimized>
+        <fitnessCollecting>MEAN_ACROSS_STEPS</fitnessCollecting>
+        <fitnessSamplingReplications>10</fitnessSamplingReplications>
+        <fitnessCombineReplications>MEAN</fitnessCombineReplications>
+    </fitnessInfo>
+    <searchSpace>
+        <paramSpec>["memory" [5 1 30]]</paramSpec>
+        <paramSpec>["nchpercent" [0 0.01 1]]</paramSpec>
+        <paramSpec>["trustindexmean" [0 0.01 1]]</paramSpec>
+        <paramSpec>["initialexperience" [5 0.1 10]]</paramSpec>
+        <paramSpec>["carepatchmean" [0 0.01 1]]</paramSpec>
+        <paramSpec>["carefarmermean" [0 0.01 1]]</paramSpec>
+        <paramSpec>["careothersmean" [0 0.01 1]]</paramSpec>
+    </searchSpace>
+    <searchMethod type="StandardGA">
+        <searchMethodParameter name="mutation-rate" value="0.03"/>
+        <searchMethodParameter name="population-size" value="50"/>
+        <searchMethodParameter name="crossover-rate" value="0.7"/>
+        <searchMethodParameter name="population-model" value="generational"/>
+        <searchMethodParameter name="tournament-size" value="3"/>
+    </searchMethod>
+    <chromosomeRepresentation type="GrayBinaryChromosome"/>
+    <caching>true</caching>
+    <evaluationLimit>1000</evaluationLimit>
+    <bestCheckingNumReplications>10</bestCheckingNumReplications>
+</search>

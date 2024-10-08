@@ -1,0 +1,24 @@
+nch_strategy cambodia
+	nch_strate_cambodia
+	b/se
+Mean	
+NCH_Strategy	-0.099***
+	="(0.008)"
+Effect	
+subsidy	4.102***
+	="(0.093)"
+giniCoeff	1.229***
+	="(0.051)"
+sub_size	-1.828***
+	="(0.123)"
+cmd	npregress
+depvar	nch_strategy
+r2	0.685
+r2_p	
+ll	
+bic	.
+N	17343.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

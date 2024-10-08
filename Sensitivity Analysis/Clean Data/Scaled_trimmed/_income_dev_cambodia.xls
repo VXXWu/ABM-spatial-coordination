@@ -1,0 +1,24 @@
+income_dev cambodia
+	income_dev_cambodia
+	b/se
+Mean	
+Income_Dev	0.028***
+	="(0.007)"
+Effect	
+subsidy	-0.920***
+	="(0.195)"
+giniCoeff	3.788***
+	="(0.118)"
+sub_size	1.304***
+	="(0.261)"
+cmd	npregress
+depvar	income_dev
+r2	0.357
+r2_p	
+ll	
+bic	.
+N	17343.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

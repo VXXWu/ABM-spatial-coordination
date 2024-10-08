@@ -1,0 +1,24 @@
+nch_patches vietnam
+	nch_patche_vietnam
+	b/se
+Mean	
+NCH_Patches	0.070***
+	="(0.008)"
+Effect	
+subsidy	3.037***
+	="(0.036)"
+giniCoeff	0.049
+	="(0.032)"
+sub_size	-0.202***
+	="(0.051)"
+cmd	npregress
+depvar	nch_patches
+r2	0.957
+r2_p	
+ll	
+bic	.
+N	21087.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

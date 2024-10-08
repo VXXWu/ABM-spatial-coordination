@@ -1,0 +1,24 @@
+net_prod vietnam
+	net_prod_vietnam
+	b/se
+Mean	
+Net_Prod	0.308***
+	="(0.004)"
+Effect	
+subsidy	-0.310***
+	="(0.074)"
+giniCoeff	-0.062
+	="(0.041)"
+sub_size	-0.122
+	="(0.111)"
+cmd	npregress
+depvar	net_prod
+r2	0.165
+r2_p	
+ll	
+bic	.
+N	15392.000
+N_lc	
+N_rc	
+converged	1.000
+* p<0.10, ** p<0.05, *** p<0.01

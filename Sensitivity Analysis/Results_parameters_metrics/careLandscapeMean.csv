@@ -1,0 +1,47 @@
+,Coefficient,P-value
+"careLandscapeMean*initialExperience, HS Patches",-0.10719504614700158,4.691602122622409e-47
+"careFarmMean*careLandscapeMean, HS Patches",0.09207464106854772,4.430289490827146e-135
+"careLandscapeMean, NCH Patches",0.0878722518749186,1.26099890902486e-44
+"careLandscapeMean*initialExperience, NCH Patches",-0.07980580705749066,2.0359567325916054e-35
+"careLandscapeMean, Income Deviation",0.07400300316389793,2.7796442283362175e-82
+"careFarmMean*careLandscapeMean, Production Benefit Per NCH Patch",-0.06624643385848748,2.1800139939769575e-149
+"careLandscapeMean*nonHSPercent, NCH Patches",0.06558727130088732,9.467636324650088e-92
+"careLandscapeMean*initialExperience, Income Deviation",-0.06549195934283714,7.80375420418475e-62
+"careLandscapeMean, HS Patches",-0.055784033703231234,1.53965303353747e-14
+"careLandscapeMean*initialExperience, Production Benefit Per NCH Patch",0.055670405994451694,7.047381101237189e-28
+"careFarmMean*careLandscapeMean, Non-HS Strategy",-0.05045689599289255,3.879634045906112e-42
+"careFarmMean*careLandscapeMean, HS Strategy",0.05045689599289241,3.879634045907942e-42
+"careLandscapeMean*nonHSPercent, Production Benefit Per NCH Patch",-0.04880590416518581,2.6746444947676974e-81
+"careLandscapeMean, Net Production Per Patch",0.04531807591697018,1.5529799870954511e-50
+"careLandscapeMean, Non-HS Strategy",0.04247003826577209,4.372798486126588e-09
+"careLandscapeMean, HS Strategy",-0.04247003826577202,4.372798486126874e-09
+"careLandscapeMean*carePatchMean, NCH Patches",-0.040285659625973934,6.483407742571773e-36
+"careLandscapeMean*nonHSPercent, HS Patches",0.033420398251537975,3.849543810250466e-19
+"careFarmMean*careLandscapeMean, Net Production Per Patch",-0.03295745604286593,8.124332484690453e-100
+"careLandscapeMean*initialExperience, Net Production Per Patch",-0.030060647555018458,3.780524746907458e-22
+"careFarmMean*careLandscapeMean, NCH Patches",-0.025143851656569814,5.128393600345639e-15
+"careLandscapeMean, Production Benefit Per NCH Patch",0.025088846797543234,4.297899905559649e-07
+"careLandscapeMean*carePatchMean, Production Benefit Per NCH Patch",0.024008173625718734,4.552533404679591e-21
+"careFarmMean*careLandscapeMean, Income Per Patch",-0.02300762968231513,1.821516342273662e-40
+"careLandscapeMean*nonHSPercent, Income Per Patch",0.021242837399160993,1.841109686396627e-34
+"careLandscapeMean, Income Per Patch",0.02103248710122393,4.340101751283123e-10
+"careLandscapeMean*initialExperience, Income Per Patch",-0.020132937050884314,5.561837842168693e-09
+"careLandscapeMean*initialExperience, Non-HS Strategy",0.018846074172072312,0.011040547743929072
+"careLandscapeMean*initialExperience, HS Strategy",-0.018846074172072274,0.011040547743929235
+"careLandscapeMean*trustIndexMean, Income Deviation",0.0155672216102323,3.411033587507072e-15
+"careLandscapeMean*carePatchMean, Income Deviation",-0.015299270997198943,1.0253035336544223e-14
+"careLandscapeMean*trustIndexMean, Non-HS Strategy",0.01477098005129867,6.99217960760686e-05
+"careLandscapeMean*trustIndexMean, HS Strategy",-0.014770980051298557,6.992179607607764e-05
+"careLandscapeMean*memory, HS Strategy",0.012278140134029954,0.004519319367017682
+"careLandscapeMean*memory, Non-HS Strategy",-0.012278140134029673,0.004519319367018608
+"careLandscapeMean*memory, HS Patches",0.011276741674371829,0.009340281712750448
+"careLandscapeMean*carePatchMean, Net Production Per Patch",0.010819526023384582,3.639314534203987e-12
+"careLandscapeMean*nonHSPercent, Income Deviation",0.010499675283209062,1.1846206604298959e-07
+"careFarmMean*careLandscapeMean, Income Deviation",-0.010422776416180408,1.2901854957344057e-07
+"careLandscapeMean*carePatchMean, HS Patches",0.009553054643466986,0.010396591555126582
+"careLandscapeMean*memory, Production Benefit Per NCH Patch",-0.008014968448170864,0.006884115841306242
+"careLandscapeMean*trustIndexMean, Production Benefit Per NCH Patch",0.006400548289392864,0.011996129384960821
+"careLandscapeMean*trustIndexMean, HS Patches",-0.006261672558852463,0.09291150762442547
+"careLandscapeMean*memory, Net Production Per Patch",0.005990931380283832,0.0009414579372101923
+"careLandscapeMean*memory, Income Per Patch",0.004991326965423265,0.013194182864530498
+"careLandscapeMean*trustIndexMean, Income Per Patch",0.003301370899695919,0.056342428641397616
